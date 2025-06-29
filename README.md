@@ -6,8 +6,6 @@
   Passionate about robotics, embedded AI, and deploying models in the wild.
 </p>
 
-<img align="right" height="160" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dlanR0ZDB1bnN6dmI4d2t5MHE2bno5b3dyb2RxN3hpZ2Zud3E4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 <br clear="both"/>
 
 ---
