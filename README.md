@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ My Toolbox
+
 
 <table align="center">
   <tr>
@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/salim-ammar" target="_blank" title="LinkedIn">
-    <img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="LinkedIn" width="70" height="70" style="margin-right: 200px;" />
+    <img src="https://www.svgrepo.com/show/331463/linkedin.svg" alt="LinkedIn" width="70" height="70"  />
   </a>
   <a href="mailto:eng.salim.ammar@yahoo.com" title="Email">
     <img src="https://www.svgrepo.com/show/354585/yahoo.svg" alt="Yahoo Mail" width="70" height="70" />
