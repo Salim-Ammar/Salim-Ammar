@@ -41,7 +41,7 @@
   <a href="https://www.linkedin.com/in/salim-ammar" target="_blank" title="LinkedIn">
     <img src="https://www.svgrepo.com/show/331463/linkedin.svg" alt="LinkedIn" width="70" height="70"  />
   </a>
-  <a href="eng.salim_ammar@yahoo.com" title="Email">
+  <a href="mailto:eng.salim_ammar@yahoo.com">
     <img src="https://www.svgrepo.com/show/354585/yahoo.svg" alt="Yahoo Mail" width="70" height="70" />
   </a>
 </p>
